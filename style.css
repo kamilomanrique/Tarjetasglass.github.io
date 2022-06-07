@@ -141,6 +141,8 @@ body {
 }
 
 .card p {
+      width: 309px;
+      height: 114px;
       margin-top: 20px;
       font-size: 14px;
       font-weight: 300;
@@ -159,12 +161,14 @@ body {
       margin-top: 10px;
       display: flex;
       color: #fff;
-      justify-content: space-between;
+      justify-content:space-between;
 }
 
 .footer__card h3 {
       font-size: 15px;
       font-weight: 500;
+      display: flex;
+      align-items: flex-end;
 }
 @media screen and (max-width:1200px){
       .container__cards {
