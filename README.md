@@ -1,2 +1,2 @@
-# Tarjetasglass.github.io
-En este repositorio creare un ejemplo de tarjetas tipo vidrio.
+# Cards_glassmood
+En este repositorio creare una forma de hacer cards transparentes para poder ver animaciones detras de ellas.
